@@ -11,7 +11,9 @@
         tools:layout="@layout/fragment_list" >
         <action
             android:id="@+id/action_details"
-            app:destination="@id/detailsFragment2" />
+            app:destination="@id/detailsFragment2"
+            app:enterAnim="@anim/fragment_fade_enter"
+            app:exitAnim="@anim/fragment_fade_exit" />
     </fragment>
     <fragment
         android:id="@+id/detailsFragment2"
@@ -20,7 +22,9 @@
         tools:layout="@layout/fragment_details" >
         <action
             android:id="@+id/action_list"
-            app:destination="@id/listFragment2" />
+            app:destination="@id/listFragment2"
+            app:enterAnim="@anim/fragment_fade_enter"
+            app:exitAnim="@anim/fragment_fade_exit" />
         <argument
             android:name="dogUuid"
             app:argType="integer"

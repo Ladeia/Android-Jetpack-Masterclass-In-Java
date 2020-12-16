@@ -3,4 +3,15 @@
 Its a project from udemy course Android Jetpack Masterclass In Java - https://www.udemy.com/course/androidjetpackjava/
 
 Contents:
-* Navigation
+* Navigation :heavy_check_mark:
+* Layouts
+* MVVM and Live Data
+* Retrofit and RxJava
+* Glide
+* Room
+* Data Bind
+* Pallet
+* Notifications
+* Preferences
+* Permission and sharing
+* Multidex

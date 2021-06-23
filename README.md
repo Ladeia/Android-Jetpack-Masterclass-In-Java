@@ -4,7 +4,7 @@ Its a project from udemy course Android Jetpack Masterclass In Java - https://ww
 
 Contents:
 * Navigation :heavy_check_mark:
-* Layouts
+* Layouts :heavy_check_mark:
 * MVVM and Live Data
 * Retrofit and RxJava
 * Glide
